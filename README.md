@@ -75,9 +75,9 @@ Messages are sent from the client to the server and from the server to the clien
 | Step           | Command                   |
 | -------------- | ------------------------- |
 | Compile Server | javac ChatServerLoop.java |
-| Run Server     | java ChatServerLoop       |
+| Run Server     | java ChatServerLoop.java       |
 | Compile Client | javac ChatClientLoop.java |
-| Run Client     | java ChatClientLoop       |
+| Run Client     | java ChatClientLoop.java       |
 
 ## 💻 Example Communication
 | Client Side              | Server Side                 |
