@@ -85,14 +85,6 @@ Messages are sent from the client to the server and from the server to the clien
 | Hello Server             | Client says Hello Server    |
 | Server says Hello Client | Server replies Hello Client |
 
-## 🚀 Future Enhancements
-| Feature              | Description                      |
-| -------------------- | -------------------------------- |
-| Chat Logging         | Store chat messages in log file  |
-| Multi Client Support | Allow multiple clients           |
-| GUI Interface        | Build interface using Java Swing |
-| Secure Chat          | Add encryption                   |
-| Network Chat         | Connect multiple systems         |
 
 ## 👨‍💻 Author
 Aditya Dipak Shejwal
