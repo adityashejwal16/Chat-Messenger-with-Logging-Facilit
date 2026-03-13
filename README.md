@@ -46,7 +46,7 @@ Messages are sent from the client to the server and from the server to the clien
 
 ---
 
-🧠 Working of the Application
+## 🧠 Working of the Application
 | Server Side                               |
 | ----------------------------------------- |
 | Server starts and listens on port 5100    |
